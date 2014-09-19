@@ -7,4 +7,4 @@ for all major browsers and wants to add more extensions as there product
 portfolio grows. To do that now, you would need a few developers specialized on
 how to write extensions cross platform. I believe that we can save a lot of
 developer headache and time by offloading these browser differences and quirks
-to a framework. That is the goal of this project.
+to a framework. That is the goal of this project!
