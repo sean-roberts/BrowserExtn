@@ -1,4 +1,4 @@
-## Extn Goal
+## Project Goal
 
 Browser extensions are great for adding quick services and functionality to
 users and websites. Developing these extensions takes a lot of knowledge on
