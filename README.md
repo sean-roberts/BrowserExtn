@@ -15,3 +15,7 @@ the developers will use. So the developers write the html and JS the way they wo
 normally. When we run the build processes, we take all of the configs and
 build out the permissions for the apps in the way that matches the platform's
 needs. Then apply the dir structures and file paths the way platforms expect.
+
+
+Note: For the first stage of this development, it is offline and will commit 
+once a fledged strategy and build process is stable.
